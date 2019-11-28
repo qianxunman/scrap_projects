@@ -1,2 +1,2 @@
-# scrap_projects
+# scrapy_projects
 simple use
